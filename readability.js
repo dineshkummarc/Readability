@@ -1,1 +1,1 @@
-javascript:void(document.body.style.width="50%")
+javascript:s=document.body.style;s.width="50%";s.margin="0 auto";void(0)
